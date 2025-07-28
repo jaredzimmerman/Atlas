@@ -117,7 +117,7 @@ return [
     |
     */
 
-    'help_center_url' => 'https://docs.monicahq.com/',
+    'help_center_url' => 'https://docs.atlashq.com/',
 
     /*
     |--------------------------------------------------------------------------
@@ -128,7 +128,7 @@ return [
     |
     */
 
-    'repository' => 'https://github.com/monicahq/monica/',
+    'repository' => 'https://github.com/atlashq/atlas/',
 
     /*
     |--------------------------------------------------------------------------
